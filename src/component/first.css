@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.first{
+    background-color:white;
+    width: 100%;
+    /* border: 2px solid black; */
+    padding: 15px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 10px;
+    border-radius: 10px;
+}
+.first ul li{
+    list-style: none;
+    display: inline;
+    padding: 20px;
+    font-size: 15px;
+  
+
+}
+.first ul li a{
+    text-decoration: none;
+}
+.secound{
+    margin: 15px;
+    line-height: 40px;
+}
+#third{
+    padding: 10px 25px 20px 20px;
+    line-height: 40px;
+}
+#secound{
+    padding: 10px 25px 20px 20px;
+}
+#fourth{
+    list-style: none;
+    display: flex;
+    /* justify-content: space-around; */
+   
+}
+#fourth li{
+    padding: 0px 10px 0px 10px ;
+    background: #27B35729;
+    margin: 10px;
+    border-radius: 5px;
+}
+fieldset{
+    border-radius: 8px;
+}
+fieldset legend{
+    padding: 10px;
+    
+}
+#para1{
+    line-height: 20px;
+
+}
+#para1 p{
+    color:#27B357;
+    margin-left: 60px;
+
+}
+#para2{
+    line-height: 20px;
+    
+}
+#para2 p{
+    color:#27B357;
+    margin-left: 60px;
+
+}
+.para1{
+    margin-bottom:30px;
+    margin-left: 60px;
+}
+.para2{
+    /* margin-bottom:30px; */
+    margin-left: 60px;
+}
+#dot1 p{
+    color:#27B357;
+    
+}
+#dot2 p{
+    color:#27B357;
+}
+#dot1{
+    margin-left: 60px;
+    margin-bottom: 30px;
+    line-height: 20px;
+}
+#dot2{
+    margin-left: 60px;
+    line-height: 20px;
+}
+.left{
+    height: 100vh;
+    width: 10%;
+    /* border: 2px solid red; */
+    background: #27B35726;
+    border-radius: 15px;
+
+     margin: 42px 0px 0px 10px;
+}
+.right{
+    height: 100vh;
+    width: 90%;
+}
+#all{
+    display: flex;
+    flex:1;
+}
+.left i{
+    font-size: 40px;
+    margin: 35px 0px 0px 52px;
+}
+#para3{
+    padding: 5px;
+    margin: 10px;
+    line-height: 20px;
+}
+#firstpara{
+    margin-bottom: 20px;
+
+}
+#secpara{
+    margin-bottom: 20px;
+}
+#thirdpara{
+    margin-bottom: 20px;
+}
+#fourthpara{
+    margin-bottom: 20px;
+}
+#all{
+    margin-left: 40px;
+}
+.btn1{
+    margin-right: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.btn2{
+    margin: 10px;
+    padding: 10px 35px 10px 35px ;
+    color: black;
+    border-radius: 20px;
+
+}
