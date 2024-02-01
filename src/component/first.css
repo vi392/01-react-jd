@@ -3,6 +3,12 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.pura{
+    overflow: scroll;
+}
+::-webkit-scrollbar{
+    width:0px;
+}
 .first{
     background-color:white;
     width: 100%;
@@ -25,6 +31,10 @@
 .first ul li a{
     text-decoration: none;
 }
+.first h1{
+    font-family: 
+    Poppins;
+}
 .secound{
     margin: 15px;
     line-height: 40px;
@@ -32,6 +42,8 @@
 #third{
     padding: 10px 25px 20px 20px;
     line-height: 40px;
+    font-family: 
+    Poppins;
 }
 #secound{
     padding: 10px 25px 20px 20px;
@@ -76,17 +88,70 @@ fieldset legend{
 .para1{
     margin-bottom:30px;
     margin-left: 60px;
+    
+}
+.para1 h2{
+    font-family: 
+    'Poppins';
+}
+.para1 h2 li{
+    font-family: 
+    'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
 }
 .para2{
     /* margin-bottom:30px; */
     margin-left: 60px;
 }
+.para2 h2{
+    font-family: 
+    'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 45px;
+}
+.para2 h2 li{
+    font-family: 
+    'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+}
 #dot1 p{
     color:#27B357;
+    font-family: 
+    'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
     
+}
+#dot1 h2{
+    font-family: 
+    'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 45px;
+
 }
 #dot2 p{
     color:#27B357;
+    font-family: 
+    'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+#dot2 h2{
+    font-family: 
+    'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 45px;
+
 }
 #dot1{
     margin-left: 60px;
@@ -125,7 +190,11 @@ fieldset legend{
 }
 #firstpara{
     margin-bottom: 20px;
-
+    
+}
+#firstpara h4{
+    font-family: 
+    'Poppins';
 }
 #secpara{
     margin-bottom: 20px;
@@ -138,6 +207,7 @@ fieldset legend{
 }
 #all{
     margin-left: 40px;
+
 }
 .btn1{
     margin-right: 30px;

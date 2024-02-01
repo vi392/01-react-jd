@@ -5,9 +5,10 @@ const First = () => {
   return (
     <>
 
+<div className="pura">
 <div className="first">
         <section>
-            <h1>Candidate Information</h1>
+            <h1>candidate information</h1>
         </section>
         <section>
             <ul>
@@ -127,6 +128,8 @@ const First = () => {
    
 
   </div>
+</div>
+
     
     </>
   )
