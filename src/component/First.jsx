@@ -1,5 +1,5 @@
 import React from 'react'
-import "./first.css"
+//  
 
 const First = () => {
   return (
@@ -103,7 +103,7 @@ const First = () => {
 
         <fieldset id="fourth" style={{padding:"10px 10px 10px 20px"}}>
             <legend>Skills</legend>
-            <li>Reactjs</li>
+            <li>Reactjs</li>0
             <li>Redux</li>
             <li>Responsive Design</li>
             <li>HTML5&CSS3</li>
